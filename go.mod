@@ -1,4 +1,4 @@
-module github.com/things-labs/fwu
+module github.com/thinkgos/fwu
 
 go 1.16
 

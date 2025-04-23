@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/things-labs/fwu"
+	"github.com/thinkgos/fwu"
 )
 
 var BuildTime = "unknown"
